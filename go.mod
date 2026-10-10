@@ -6,7 +6,7 @@ require (
 	github.com/go-composites/array v0.0.0-20261008012822-b187ea4ffff3
 	github.com/go-composites/error v0.0.0-20261004233631-3186f2071cf7
 	github.com/go-composites/result v0.0.0-20261006020718-14f01380a20a
-	github.com/onsi/ginkgo/v2 v2.33.0
+	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 )
 
